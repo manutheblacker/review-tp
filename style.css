@@ -1,0 +1,128 @@
+ul.der{
+  display: flex;
+  list-style: none;
+}
+header{
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul.der{
+  float: right;
+  position: relative;
+  bottom:60px;
+  right: 10%;
+}
+ul.he{
+  position: relative;
+  left: 10%;
+  list-style: none;
+} 
+strong{
+  font-weight: 900;
+  font-size: 30px;
+  color: rgb(104, 98, 98) ;
+}
+em{
+  color: darkgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.blu{
+  color: rgb(92, 193, 233);
+}
+.blue{
+  font-weight: 700;
+  color: #9CC7FC;
+  font-size: 13px;
+  position:relative ;
+  bottom: 05px;
+}
+.im{
+  position: relative;
+  top: 05px;
+}
+.mont{
+  background-image: url(https://dummyimage.com/1000x500/8d82ed/6e76e6.jpg&text=mont);
+  width: 80%;
+  height: 380px;
+  background-position: center;
+  position: relative;
+  left: 11%;
+}
+.agne{
+  color: white;
+  font-size: 1.5em;
+  font-family:sans-serif;
+  font-weight: thin;
+  padding-left: 100px;
+  padding-top: 50px;
+}
+h2{
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 1.3em;
+  padding-left: 11%;
+  color: rgb(104, 98, 98);
+  padding-top:20px;
+}
+.flo{
+  float: right;
+  position: relative;
+  bottom: 80px;
+  color: #9CC7FC;
+  background-color: unset;
+  right: 9%;
+}
+.ba{
+  position:relative ;
+  top: ;
+}
+.ali{
+  display: flex;
+  padding-left: px;
+  gap:17%;
+  position: relative;
+  left:15%;
+  background-color: gray;
+  padding-bottom: 20px;
+}
+.ret{
+  position: relative;
+  top: 70px;
+  right: 50px;
+}
+.clas{
+  position: relative;
+  left: 20%;
+}
+.av{
+  display: flex;
+  padding-top:35px;
+  gap: 10%;
+  padding-left: 20%;
+  padding-bottom: 50px;
+}
+.cont{
+  position:relative;
+  top: 50px;
+  right: 18%;
+  display: grid;
+  grid-template-columns: 60px 60px 60px;
+}
+.im1{
+  position: relative;
+  top:20px;
+  right: 70px;
+}
+footer{
+  background-color: rgb(78, 76, 76);
+  padding-bottom: 10%;
+  padding-top: 40px;
+}
+.ter{
+  float:right;
+  position:relative;
+  bottom:140px;
+}
+.foo{
+  position: relative;
+  left: 14%;
+}
